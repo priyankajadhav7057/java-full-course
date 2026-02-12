@@ -31,3 +31,13 @@ public class HierarchicalInheritance {
     }
 
 }
+/*
+ * run PS C:\Java_Full_Course> javac
+ * OOPS\INHERITANCE\HierarchicalInheritance.java
+ * PS C:\Java_Full_Course> java OOPS.INHERITANCE.HierarchicalInheritance
+ * All are Fruits Category
+ * Mango is kind of Fruits
+ * All are Fruits Category
+ * Apple is kind of Fruits
+ * PS C:\Java_Full_Course>
+ */

@@ -36,3 +36,10 @@ public class MethodOverloading {
     }
 
 }
+/*
+ * //runPS C:\Java_Full_Course> javac OOPS\Polymorphism\MethodOverloading.java
+ * >>
+ * PS C:\Java_Full_Course> java OOPS.Polymorphism.MethodOverloading
+ * priyanka 23 123456
+ * PS C:\Java_Full_Course>
+ */
